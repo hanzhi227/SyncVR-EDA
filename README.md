@@ -1,5 +1,7 @@
 # Analysis of Derelict Vehicles in New York City
 
+*Disable Dark Mode to see figures*
+
 ------
 ### Hanzhi Guo
 
