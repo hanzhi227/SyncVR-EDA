@@ -9,7 +9,7 @@
 
 ------
 
-Everyone has seen parked, possible abandoned, vehicles on the side of the road. I have zero insights on them and they remain a mystery to me. It would be fun to dig into the data to see if there are any fun facts about them!
+Everyone has seen parked, possibly abandoned, vehicles on the side of the road. I have zero insights on them and they remain a mystery to me. It would be fun to dig into the data to see if there are any fun facts about them!
 
 ------
 
