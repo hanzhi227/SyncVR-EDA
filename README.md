@@ -43,7 +43,7 @@ Let us look at what kind of vehicles get abandoned the most.
 
 It looks like the most abandoned vehicles are 4 door, blue, Chevys. But let's make sure by grouping all the characteristics together.
 
-![Top Char](TopCharacteristics.png)
+![Top Char](images/TopCharacteristics.png)
 
 ### Year Vehicle was Manufactured
 
@@ -82,7 +82,7 @@ H<sub>0</sub>: There is no significant difference in the age of derelict vehicle
 
 H<sub>a</sub>: There is significant difference in the age of stolen derelict vehicles and non-stolen ones.
 
-A good data analyst/scientist will alawys back up their claims with statistically significant testing.
+A good data analyst/scientist will always back up their claims with statistically significant testing.
 
 ### Bootstrapping the Data
 
@@ -96,7 +96,7 @@ A good data analyst/scientist will alawys back up their claims with statisticall
 
 From the bootstrapped results we can see that the mean and median age for stolen cars is 7.5 with high confidence. It is also interesting to see there is a bimodal median for the non-stolen cars at 11 and 12 thus reinforcing that the mean age for non-stolen cars centers heavily around 11.5 years old. The bootstrap is much more likely to get a whole number as the median.
 
-Looking at the mean distribution, we see that if we were to overlay the non-stole and stolen graphs, the stolen graph would end right where the non-stolen graph would begin (nearly 0% overlap). The 95% Confidence Interval for both bootstraps show there is statistical significance in the claim that non-stolen derelict cars are generally older than stolen derelict cars.
+Looking at the mean distribution, we see that if we were to overlay the non-stolen and stolen graphs, the stolen graph would end right where the non-stolen graph would begin (nearly 0% overlap). The 95% Confidence Interval for both bootstraps show there is statistical significance in the claim that non-stolen derelict cars are generally older than stolen derelict cars. Thus, we reject the null hypothesis.
 
 ### Vehicle Make Age Distribution
 
