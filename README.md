@@ -107,7 +107,7 @@ Even though Chevys, Fords, and Olds are the most abandoned vehicles, we find tha
 Here are some speculations:
 - Less reliable
 - Easily stolen
-- People who buy them don't dislike the car sooner
+- People who buy them dislike the car sooner
 
 ### When and Where Were They Tagged?
 
